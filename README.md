@@ -19,7 +19,6 @@ CREATE DATABASE library_db;
 USE library_db;
 
 
-
 👩‍💻 Author
 Prepared for Database Management Systems Assignment
 by E. Waithira
